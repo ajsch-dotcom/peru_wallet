@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Finanzas Perú Inteligente",
+  "description": "Dashboard financiero para Yape, Plin y bancos peruanos con detección inteligente de transacciones vía Gemini AI.",
+  "requestFramePermissions": []
+}
